@@ -41,7 +41,7 @@ O APP é composto por 5 telas diferentes:
 :heavy_check_mark: Armazenamento local de dados;\
 :heavy_check_mark: Notificações para lembrar de tarefas pendentes;\
 :heavy_check_mark: Sincronização de dados com Firebase.
-
+:heavy_check_mark: Analytics com Firebase.
 
 ## :rocket: Tecnologias
 
